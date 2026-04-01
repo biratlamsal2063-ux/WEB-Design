@@ -28,7 +28,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="right-h">
-
+                BIRAT LAMSAL
             </div>
 
         </div>
