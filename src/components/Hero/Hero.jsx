@@ -28,8 +28,9 @@ const Hero = () => {
                 </div>
             </div>
             <div className="right-h">
-                BIRAT LAMSAL
+                binit lamsal
             </div>
+            <div>BIRAT LAMSAL THIS IS THE PORTION TO DELET BEFORE U START</div>
 
         </div>
     )
